@@ -1,0 +1,16 @@
+category,sentiment_category,total_sold,avg_rating,product_count
+elektronik,Negative,13714,1.4042553191489362,188
+elektronik,Neutral,41219,3.0,404
+elektronik,positive,1506329,4.845083306109115,15305
+fashion,Negative,23620,1.4041450777202074,193
+fashion,Neutral,54844,3.0,374
+fashion,positive,1359710,4.825242718446602,8343
+handphone,Negative,47457,1.3788235294117648,425
+handphone,Neutral,55426,3.0,491
+handphone,positive,808353,4.752298850574713,5220
+olahraga,Negative,18833,1.6,95
+olahraga,Neutral,117607,3.0,480
+olahraga,positive,1719090,4.723117169213824,7263
+pertukangan,Negative,5606,1.4166666666666667,24
+pertukangan,Neutral,13994,3.0,76
+pertukangan,positive,388028,4.76071842410197,1726
